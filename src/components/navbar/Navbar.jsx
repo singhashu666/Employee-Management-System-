@@ -29,10 +29,10 @@ export default function Navbar() {
                         Home
                     </li>
                     <li className="navabarBtn" onClick={() => navigate("/addEmp")}>
-                        Add New
+                        ADD NEW
                     </li>
                     <li className="navabarBtn" onClick={() => navigate("/about-us")}>
-                        About_US
+                        ABOUT US
                     </li>
                 </ul>
             </div>
