@@ -26,7 +26,7 @@ export default function Navbar() {
             <div className="links-cont">
                 <ul className="link-list-cont">
                     <li className="navabarBtn" onClick={() => navigate("/")}>
-                        Home
+                        HOME
                     </li>
                     <li className="navabarBtn" onClick={() => navigate("/addEmp")}>
                         ADD NEW

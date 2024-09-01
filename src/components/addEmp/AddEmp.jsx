@@ -195,7 +195,7 @@ export default function AddEmp() {
                             Submit
                         </button>
                         <p className="mt-3 ">
-                            Go to~
+                            Go to ~
                                <a href="/">Home</a>
                         </p>
                     </div>
